@@ -1,0 +1,33 @@
+	#ans{
+		width: 320px;
+		border-radius: 13px;
+		box-shadow: inset 5px 5px 3px grey, inset -5px -5px 3px white;
+		padding: 5px;
+	}
+
+
+	.calc{
+		background: rgb(200,200,200);
+		display: inline-block;
+		padding: 10px;
+		border-radius: 20px;
+	}
+
+	input{
+		font-size: 30px;
+		width: 70px;
+		height: 60px;
+		margin: 5px;
+		border-radius: 10px;
+		border:none;
+		box-shadow: 5px 5px 3px grey, -5px -5px 3px white;
+		background: rgb(200,200,200);
+		outline: none;
+	}
+
+	input:hover{
+
+		box-shadow: inset 5px 5px 3px grey, inset -5px -5px 3px white;
+		padding: 5px;
+
+	}
